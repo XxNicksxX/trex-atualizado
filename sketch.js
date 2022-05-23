@@ -100,8 +100,7 @@ function draw(){
   
     
   }
-   camera.position.x = rex.position.x
- 
+  
 if(modo === JOGAR){
     //mover o solo
     solo.velocityX = -10;
